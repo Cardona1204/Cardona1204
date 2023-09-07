@@ -6,7 +6,8 @@
 
       Take a sit and enjoy life
   
-     ![ghost2](https://github.com/Cardona1204/Cardona1204/assets/107329770/948e95d8-80dc-493c-9311-752d2d09bbf8)
+     ![ghost2](https://github.com/Cardona1204/Cardona1204/assets/107329770/948e95d8-80dc-493c-9311-752d2d09bbf8)                                                                  ![WnEF](https://github.com/Cardona1204/Cardona1204/assets/107329770/d03e49c4-afe4-4e59-84d4-3adcdb063daa)
+
 
 
                                                                                                                               
