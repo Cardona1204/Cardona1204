@@ -1,6 +1,10 @@
+
+
 - 👋 Hi, I’m @Cardona1204 and this is my first presentation if you're watching this in 2022, don't worry I'm gonna be better than this.
 - 👀 I’m interested in learning everything about programming
-- 🌱 I’m currently learning programming in c++ / js / html / css
+- 🌱 I’m currently learning programming in Java
+
+      Take a sit and enjoy life
 
 
 <!---
