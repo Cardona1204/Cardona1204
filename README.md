@@ -13,4 +13,3 @@
 Cardona1204/Cardona1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![giphy](https://github.com/Cardona1204/Cardona1204/assets/107329770/46c453e5-d0f4-4c24-a4fe-28dfc316ad4c)
